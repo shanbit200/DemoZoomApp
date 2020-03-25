@@ -1,0 +1,2 @@
+rootProject.name='DemoZoomApp'
+include ':app', ':commonlib', ':mobilertc'
