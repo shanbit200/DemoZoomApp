@@ -6,10 +6,11 @@ public interface AuthConstants {
 	public final static String WEB_DOMAIN = "zoom.us";
 
 	// TODO Change it to your APP Key
-	public final static String SDK_KEY = "ciW2MLKmXQbyRJGR7Ei2mGUjgrAEGkEu7U98";
+	public final static String SDK_KEY = "{SDK_Key}";
 
 	// TODO Change it to your APP Secret
-	public final static String SDK_SECRET = "OLVD6rChcqLSfgWTtNA62k1ZTy48EldzHEB2";
+	public final static String SDK_SECRET = "{SDK_SECRET}";
+
 
 	/**
 	 * We recommend that, you can generate jwttoken on your own server instead of hardcore in the code.
